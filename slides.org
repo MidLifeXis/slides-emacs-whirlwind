@@ -77,6 +77,14 @@
   - grep
   - git
   - ECB
+* ELPA
+
+  Think CPAN for emacs
+
+  Allows for package distribution
+  in a variety of ways, including
+  github, dedicated repositories,
+  and local storage.
 
 * Other Resources
   - [[http://sachachua.com]]
