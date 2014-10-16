@@ -90,7 +90,7 @@
   - [[http://sachachua.com]]
   - [[http://www.emacswiki.org/]]
   - [[https://www.gnu.org/software/emacs/][https://www.gnu.org/software/emacs/]]
-  - [[http://humorix.org/10016][http://humorix.org/10016]]
+  - [[http://elpa.gnu.org/]]
 
 * Contact Information
 
