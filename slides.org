@@ -31,13 +31,19 @@
   - A programming environment
   - A LISP interpreter wrapped in a REPL
   - An operating system
+  - A customizable development environment
+  - Cross platform
   - Everything, including the kitchen sink
+  - To some, a religion
 
-* Communication
+* What can Emacs do?
 
-  - IRC
-  - email
+  - Communication (IRC, email, web, twitter)
   - web / gopher / ftp
+  - Data manipulation
+  - Syntax Highlighting
+  - Compilation
+  - Integrate with other systems
 
 * Available Language Support
 
