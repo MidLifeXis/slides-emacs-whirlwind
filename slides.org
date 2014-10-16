@@ -58,25 +58,39 @@
   - [[file+emacs:.][directories]]
   - Many, many others
 
-* Support for development tools
+* Development Tools
 
   - ctags
   - Syntax Highlighting
-  - Spell Checking
-  - Creation of links to other resources
-  - virtual filesystem support (tramp-mode)
-  - shell inside a frame
-  - debugger support
-  - Database glue
+  - Speel Checking
+  - links to things
+  - virtual file system
+  - [[elisp:eshell][shell inside a frame]]
+  - debugger
+  - Database interaction
   - templates
   - code folding
 
-* Support for development tools (p2)
+* Development Tools (p2)
 
-  - [[file+emacs:./compile-error.pl][compile mode / jump to error]]
-  - grep
-  - git
-  - ECB
+  - [[file+emacs:./lib/Foo.pm][Error Tracking]]
+  - [[elisp:grep][grep]]
+  - [[elisp:magit-status][git]] / VC
+  - Unit Testing
+  - [[elisp:ecb-activate][ECB]]
+  - Code tidying
+  - Editor callbacks
+  - Server-mode
+  - [[file+emacs:./test.org][org-mode]]
+
+* Development Tools (p3)
+
+  - Very Large File support
+  - Compressed file support
+  - Encrypted file support
+  - Partial buffer encryption
+  - ... and many other things
+
 * ELPA
 
   Think CPAN for emacs
