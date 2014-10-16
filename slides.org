@@ -1,10 +1,16 @@
 #+COMMENT: Activate this with M-x org-present
 * Emacs Capability Overview
+
   - Brew City Perl Mongers Meeting
   - Discovering Editors
   - [2014-10-16 Thu 19:00]
-
   - Brian Wightman
+
+
+        A whirlwind tour of some of
+        the parts of Emacs that I
+        use to get things done.
+
 
 * Introduction
 
