@@ -1,0 +1,82 @@
+#+COMMENT: Activate this with M-x org-present
+* Emacs Capability Overview
+  - Brew City Perl Mongers Meeting
+  - Discovering Editors
+  - [2014-10-16 Thu 19:00]
+
+  - Brian Wightman
+
+* Introduction
+
+  - Over 20 years in IT
+    - System Administration
+    - Security
+    - Application Design
+
+  - Unix, VMS, MacOS, Windows
+
+  - Academics, Finance, Engineering
+
+  - All using Emacs
+
+* What is Emacs?
+
+  - An editor
+  - A programming environment
+  - A LISP interpreter wrapped in a REPL
+  - An operating system
+  - Everything, including the kitchen sink
+
+* Communication
+
+  - IRC
+  - email
+  - web / gopher / ftp
+
+* Available Language Support
+
+  - [[file+emacs:./test.ksh][Shell]]
+  - [[file+emacs:./test.cmd][BAT/CMD]]
+  - [[file+emacs:./test.lisp][lisp]]
+  - [[file+emacs:./test.html][HTML]]
+  - [[file+emacs:./test.pl][Perl]]
+  - [[file+emacs:./test.cfg][Configuration]]
+  - [[file+emacs:./test.json][JSON]]
+  - [[file+emacs:./test.c][C/C++]]
+  - [[file+emacs:.][directories]]
+  - Many, many others
+
+* Support for development tools
+
+  - ctags
+  - Syntax Highlighting
+  - Spell Checking
+  - Creation of links to other resources
+  - virtual filesystem support (tramp-mode)
+  - shell inside a frame
+  - debugger support
+  - Database glue
+  - templates
+  - code folding
+
+* Support for development tools (p2)
+
+  - [[file+emacs:./compile-error.pl][compile mode / jump to error]]
+  - grep
+  - git
+  - ECB
+
+* Other Resources
+  - [[http://sachachua.com]]
+  - [[http://www.emacswiki.org/]]
+  - [[https://www.gnu.org/software/emacs/][https://www.gnu.org/software/emacs/]]
+  - [[http://humorix.org/10016][http://humorix.org/10016]]
+
+* Contact Information
+
+  - [[mailto:mlx@cpan.org][mlx@cpan.org]]
+  - [[http://www.perlmonks.org/?node_id=272364][MidLifeXis@perlmonks]]
+  - [[https://github.com/MidLifeXis][MidLifeXis@github]]
+
+
+* Questions?
